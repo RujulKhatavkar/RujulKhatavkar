@@ -1,33 +1,95 @@
-# Hi there, I'm Rujul Khatavkar! 👋
+# Hi, I'm Rujul 👋  
+### AI Engineer | Prompt Engineering | LLM Applications | RAG Systems
 
-🎓 **Master's Student in Information Management** at the University of Illinois Urbana-Champaign  
-💼 **Data Analyst | Machine Learning Enthusiast | Software Developer**  
-🎨 Experienced in **Graphic Design** and **User Interface Design**
+I build **LLM-powered systems** focused on **prompt design, retrieval pipelines, and evaluation workflows** to create reliable, structured, and production-ready AI applications.
 
-## About Me
+---
 
-I'm passionate about harnessing the power of data to drive decision-making and solve real-world problems. My background combines data analysis, machine learning, and full-stack development, with experience in managing and analyzing large datasets, building predictive models, and developing scalable backend solutions. I’m currently focused on using data analytics and machine learning in transportation and logistics to optimize efficiency and improve urban mobility.
+## 🚀 What I’m Focused On
+- Prompt engineering for **structured outputs, roleplay, scoring, and classification**
+- Building **RAG pipelines** with embeddings + vector databases
+- Designing **LLM evaluation systems** (accuracy, hallucination, consistency)
+- Developing **end-to-end AI workflows**: data → retrieval → prompts → outputs
+- Creating **adaptive AI systems** that behave consistently in real-world scenarios
 
-- 📊 **Data Analysis**: Experienced in data cleaning, transformation, and visualization using tools like Python, SQL, PowerBI, and Tableau.
-- 🔍 **Machine Learning**: Skilled in building predictive models and anomaly detection systems with libraries such as TensorFlow and scikit-learn.
-- 🛠 **Tech Stack**: Proficient in Python, SQL, and cloud platforms like AWS, Azure, and GCP.
-- 🎨 **Design**: Background in graphic and UI design, with projects for organizations including TEDxMITWPU and GDSC.
+---
 
-## Projects
+## 🧠 Featured Work
 
-### 🚗 Stock Market and News Headlines Analysis and Prediction
-A comprehensive system that predicts stock trends based on historical market data and news sentiment analysis, using web scraping, VADER, and RandomForest.
+### 🔹 LLM + Prompt Engineering Systems
+- Designed prompts for:
+  - Structured JSON outputs  
+  - Classification & scoring systems  
+  - Summarization & insight generation  
+  - Conversational / roleplay systems  
+- Built **prompt chains + reusable templates**
+- Iterated using **prompt testing, temperature tuning, and evaluation frameworks**
 
-### 🎟️ Dynamic Ticket Pricing System
-A predictive model for event ticket demand, developed using XGBoost and LightGBM, achieving 99% accuracy through NLP and advanced boosting techniques.
+---
 
-### 🛠️ Machine Learning Log Analysis System
-An anomaly detection system for log data, processing over a million entries with an 85% detection accuracy, used to improve operational reliability and detect system issues.
+### 🔹 RAG Pipelines & Retrieval Systems
+- Built pipelines over **large-scale datasets (1M+ records)**
+- Implemented:
+  - Embeddings + semantic search  
+  - Vector databases (ChromaDB / AstraDB)  
+  - Context-aware retrieval workflows  
+- Improved **relevance, grounding, and response accuracy**
 
-## Get in Touch
+---
 
-I’m always eager to connect and discuss data science, machine learning, and new tech!  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rujulkhatavkar)  
-- 📧 rujulsk@gmail.com
+### 🔹 AI + Data Systems
+- Built ML system with **85% anomaly detection accuracy**
+- Reduced API latency from **1 min → <3 sec** using caching (Redis)
+- Developed data pipelines using:
+  - Python, SQL, Databricks, Airflow  
 
-Let’s collaborate on impactful data projects and design solutions that make a difference!
+---
+
+### 🔹 Real-World AI Applications
+- RAG-based systems integrating **LLMs + external knowledge**
+- AI workflows for **analysis, insights, and decision support**
+- Systems designed with **evaluation, monitoring, and iteration in mind**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+Python, SQL, JavaScript  
+
+**LLM / AI:**  
+OpenAI, Gemini, LangChain, ChromaDB, Vector Databases  
+
+**Data & Infra:**  
+Databricks, Airflow, PostgreSQL, Redis  
+
+**Cloud:**  
+AWS, GCP, Azure  
+
+---
+
+## ⚙️ How I Think About AI Systems
+- Prompts are **systems**, not just instructions  
+- Retrieval is critical for **accuracy and grounding**  
+- Evaluation is required for **reliability and iteration**  
+- AI products must balance **speed, quality, and usability**
+
+---
+
+## 📌 What I’m Looking For
+- AI Engineering roles focused on:
+  - Prompt Engineering  
+  - LLM Applications  
+  - RAG Systems  
+  - AI Product Development  
+
+---
+
+## 🔗 Links
+- GitHub: https://github.com/RujulKhatavkar  
+- LinkedIn: https://www.linkedin.com/in/rujul-khatavkar-b19253206/  
+
+---
+
+## 💡 Bonus
+If you're building with LLMs and care about **structured outputs, evaluation, and real-world reliability**, I'd love to collaborate.
